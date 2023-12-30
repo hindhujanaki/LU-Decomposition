@@ -29,9 +29,9 @@ P,L,U = lu(A)
 print(L)
 print(U)
 /*
+```
 
 (ii) To find the LU Decomposition of a matrix
-```
 ```
 /*
 '''
