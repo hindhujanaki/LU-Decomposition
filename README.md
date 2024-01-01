@@ -53,7 +53,7 @@ print (x)
 (i) To find the L and U matrix
 ![Alt text](<Screenshot 2023-12-29 103207-1.png>)
 (ii) To find the LU Decomposition of a matrix
-![Alt text](<Screenshot 2023-12-29 103233.png>) (ii) To find the LU Decomposition of a matrix
+![Alt text](<Screenshot 2023-12-29 103233.png>) 
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
